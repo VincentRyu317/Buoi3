@@ -1,1 +1,6 @@
 E:\LuuDuLieuSinhVien\2033210917_DoanTrongNhan\Buoi3\1. Source code\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\LuuDuLieuSinhVien\2033210917_DoanTrongNhan\Buoi3\1. Source code\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\2033210917_DoanTrongNhan\Buoi3\1. Source code\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\LuuDuLieuSinhVien\2033210917_DoanTrongNhan\Buoi3\1. Source code\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\LuuDuLieuSinhVien\2033210917_DoanTrongNhan\Buoi3\1. Source code\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\LuuDuLieuSinhVien\2033210917_DoanTrongNhan\Buoi3\1. Source code\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
